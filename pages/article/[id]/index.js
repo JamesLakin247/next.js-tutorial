@@ -1,6 +1,6 @@
 import {server} from '../../../config'
 import Meta from '../../../components/Meta'
-import Link from 'next/Link'
+import Link from 'next/link'
 import {useRouter} from 'next/router'
 
 function article({article}) {
